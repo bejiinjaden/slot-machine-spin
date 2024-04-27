@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items:center;
+    
+    
+}
+
+.all-icons{
+    height: 100vh;
+    position: fixed;
+    width: auto;
+    left: 0;
+    top: 0;
+}
+
+.slots{
+    border: 2px solid;
+    height: 237px;
+    width: 227px;
+    display: flex;
+    padding: 20px 20px;
+
+}
+
+.reel{
+    height: 237px;
+    width: 79px;
+    border: 1px solid;
+    background-image: url(https://assets.codepen.io/439000/slotreel.webp);
+    background-repeat: repeat-y;
+    background-position: center;
+    overflow: hidden;
+}
