@@ -1,6 +1,6 @@
 const numoficons = 9,
       speed = 100,
-      icon_height = 79.8;
+      icon_height = 79;
 
 
 
