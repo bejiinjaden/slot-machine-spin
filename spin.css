@@ -36,6 +36,6 @@ body{
     border: 1px solid;
     background-image: url(https://assets.codepen.io/439000/slotreel.webp);
     background-repeat: repeat-y;
-    background-position: center;
+    background-position: 0 0;
     overflow: hidden;
 }
